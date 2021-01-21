@@ -21,6 +21,7 @@ after_success:
   - docker push sstathatos/multi-server
   - docker push sstathatos/multi-worker
 
+
 deploy:
   provider: elasticbeanstalk
   region: 'us-east-1'
