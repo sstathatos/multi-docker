@@ -9,7 +9,7 @@
       "memory": 128
     },
     {
-      "name": "server ",
+      "name": "server",
       "image": "sstathatos/multi-server",
       "hostname": "api",
       "essential": false,
